@@ -1,4 +1,4 @@
-# Project 01: Music Preferences of Two Cities
+# Music Preferences of Two Cities
  
 **Objective:** To analyze and compare the music preferences and user behavior of the cities of Springfield and Shelbyville using Yandex Music data. 
 
